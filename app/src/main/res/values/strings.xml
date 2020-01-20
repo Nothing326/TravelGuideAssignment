@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TravelGuideAssignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_50_off">Get 50%OFF</string>
+    <string name="tv_lbl_cancel">Cancel</string>
+    <string name="tv_lbl_filter">Filter</string>
+    <string name="tv_lbl_reset">Reset</string>
+    <string name="tv_lbl_rating">RATING</string>
+    <string name="btn_lbl_search_now">Search Now</string>
+    <string name="btn_lbl_filter_now">Filter NOW</string>
+    <string name="btn_lbl_filters">Filters</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_check_in">Check in</string>
+    <string name="hint_check_out">Check Out</string>
+    <string name="hint_count">Count</string>
+    <string name="hint_rooms">Rooms</string>
+    <string name="tv_lbl_recent_searchs">RECENT SEARCHS</string>
+    <string name="tv_lbL_location">Location</string>
+    <string name="tv_lbl_sort_by">SORT BY</string>
+    <string name="chip_tv_none">none</string>
+    <string name="chipi_tv_1_star">1 star</string>
+    <string name="chip_tv_2_stars">2 stars</string>
+    <string name="chip_tv_3_stars">3 stars</string>
+    <string name="chip_tv_4_stars">4 stars</string>
+    <string name="chip_tv_5_stars">5 stars</string>
+    <string name="tv_lbl_price_range">Price Range</string>
+
+    <string-array name="locations">
+        <item>Mandalay</item>
+        <item>Yangon</item>
+        <item>Taung Gyi</item>
+        <item>Pyin Oo Lwin</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>Price      $$>$$$</item>
+        <item>$100</item>
+        <item>$200</item>
+        <item>$300</item>
+    </string-array>
+</resources>
